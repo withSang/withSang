@@ -5,7 +5,7 @@
 - 🤔 I’m looking for help with who loves Algorithms or Weight Training ...
 - 💬 Ask me about my dream, I've got so many things to tell you!
 - 📫 How to reach me: via e-mail, Facebook, or anything you like.
-- 😄 Pronouns: My name is Jeong Sang, pronunced as "Chŏng Sang" in McCune-Reischauer Romanization. Feel free to call me Sang.
+- 😄 Pronouns: My name "정상" means "normal" or "top" in Korean. Hope you will love my name too >.<
 - ⚡ Fun fact: You can make a Pull Request in this repository(withSang/withSang). Because why not?
 
 <!--
