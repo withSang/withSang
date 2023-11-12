@@ -1,12 +1,20 @@
-### Hello, I'm Jeong Sang(@withSang), a CS student who wants to be a pioneering software engineer.
-- 🔭 I’m currently working on developing new service(s) at SPARCS KAIST for KAIST students.
-- 🌱 I’m currently learning Computer Science as well as Biomedical Engineering @ KAIST
-- 👯 I’m looking to collaborate with **any person who loves computers💻 or cars🏎**
-- 🤔 I’m looking for help with who loves Algorithms or Weight Training ...
-- 💬 Ask me about my dream, I've got so many things to tell you!
-- 📫 How to reach me: via e-mail, Facebook, or anything you like.
-- 😄 Pronouns: My name "정상" means "normal" or "top" in Korean. Hope you will love my name too >.<
-- ⚡ Fun fact: You can make a Pull Request in this repository([**withSang/withSang**](https://github.com/withSang/withSang/pulls)). Because why not?
+### Hello, I'm Jeong Sang([@withSang](https://github.com/withSang/)), a CS student who wants to be a pioneering software engineer.
+
+- 🏁 Busan Science High School (2018 - 2020)
+- 🏎️ School of Computing @ KAIST (2021~)
+  - ⚡️ Developer & Project Manager @ [SPARCS](https://sparcs.org) (2021~)
+  - World Friends Korea E-Volunteer @ El Salvador (2021, [video](https://www.youtube.com/watch?v=hmAepXt78EA))
+  - 🔬 Research Intern @ [ICLab](https://ic.kaist.ac.kr/) (2023)
+
+#### Awards
+- ChannelTalk \<HACKY-TALKY\> Hackathon, 2nd Prize (2023)
+
+#### Trivia
+- 💬 I’m looking to collaborate with **any person who loves computers💻 or cars🏎**
+- Personal Blog: https://blog.withsang.com
+
+[![withSang's GitHub stats](https://github-readme-stats.vercel.app/api?username=withsang)](https://github.com/anuraghazra/github-readme-stats)
+> Yeah, I must try harder...
 
 <!--
 **withSang/withSang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
