@@ -10,7 +10,7 @@
 
 #### Awards
 
-- 💬 ChannelTalk \<HACKY-TALKY\> Hackathon, 2nd Prize (2023)
+- 💬 ChannelTalk \<HACKY-TALKY\> Hackathon, 2nd Prize - [Backend Developer](https://github.com/HACKY-TALKY-2/T3_BE) (2023)
 
 #### Trivia
 
