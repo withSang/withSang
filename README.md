@@ -1,6 +1,6 @@
 ### Hello, I'm Jeong Sang, a CS student who wants to be a pioneering software engineer.
 
-#### `$ cat ~/.withsang_history
+#### `$ cat ~/.withsang_history`
 
 - 🏁 Busan Science High School (2018 - 2020)
 - 🏎️ School of Computing @ [KAIST](https://kaist.ac.kr/) (2021-)
