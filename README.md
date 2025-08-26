@@ -1,4 +1,4 @@
-### Hello, I'm Jeong Sang, a CS student who wants to be a pioneering software engineer.
+### Hello, I'm Sang, a CS student who wants to be a pioneering software engineer.
 
 #### `$ cat ~/.withsang_history`
 
