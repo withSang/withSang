@@ -16,6 +16,8 @@
 #### Trivia
 
 - I wish I could afford a Daihatsu Copen someday. If you want to sell yours, feel free to contact me. 😍
+  
+  <img width="230" height="160" alt="image" src="https://github.com/user-attachments/assets/c743f5fb-2d11-4505-a126-9f791dbfffc0" />  
 
 [![withSang's GitHub stats](https://github-readme-stats.vercel.app/api?username=withsang)](https://github.com/anuraghazra/github-readme-stats)
 > Yeah, I must try harder...
