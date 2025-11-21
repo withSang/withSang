@@ -4,7 +4,7 @@
 
 - 🏁 Busan Science High School (2018 - 2020)
 - 🏎️ School of Computing @ [KAIST](https://kaist.ac.kr/) (2021-)
-  - ⚡️ Developer & Project Manager @ [SPARCS](https://sparcs.org) (2021-)
+  - ⚡️ Developer & Project Manager @ [SPARCS](https://sparcs.org) (2021-2024)
   - 🇸🇻 World Friends Korea E-Volunteer @ El Salvador (2021, [video](https://www.youtube.com/watch?v=hmAepXt78EA))
   - 🔬 Research Intern @ [ICLab](https://ic.kaist.ac.kr/) (2023)
 - 🚀 Leader @ [MPAG Inc.](https://www.mpaghq.com/) (2024-)
